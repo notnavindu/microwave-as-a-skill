@@ -15,13 +15,13 @@ You can ask an AI to write your code, summarise your legal documents, and explai
 
 ### As a Claude Code skill
 
-Install a skill for your model using the GitHub CLI:
-
 ```bash
-gh skill install notnavindu/microwave-as-a-skill models/blanco-bm32cx
+npx skills add notnavindu/microwave-as-a-skill
 ```
 
-Or copy it manually to your personal skills directory:
+This will prompt you to select which model skill to install. Once installed, Claude Code picks it up automatically — or invoke it directly with `/blanco-bm32cx` (or whichever model you installed).
+
+If you prefer not to use npx, copy the file manually:
 
 ```bash
 mkdir -p ~/.claude/skills/blanco-bm32cx
@@ -29,9 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/notnavindu/microwave-as-a-skill/mai
   -o ~/.claude/skills/blanco-bm32cx/SKILL.md
 ```
 
-Replace `blanco-bm32cx` with the directory name for your model. Once installed, Claude Code picks it up automatically — or invoke it directly with `/blanco-bm32cx`.
-
-Skills installed to `~/.claude/skills/` are available across all your projects. To scope it to a single project instead, use `.claude/skills/` inside the project root.
+Skills installed to `~/.claude/skills/` are available across all your projects. To scope it to a single project, use `.claude/skills/` inside the project root instead.
 
 ### As a human
 
