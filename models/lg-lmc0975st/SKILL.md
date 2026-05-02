@@ -4,14 +4,15 @@ description: >
   Operate an LG LMC0975ST. Invoke this skill when the user needs to
   perform cooking, reheating, defrosting, or other functions on this
   specific model. Do not generalise to other LG models.
-manufacturer: LG
-model: LMC0975ST
-type: countertop
-wattage: 1000W
-capacity: 25L
-interface: SmoothTouch glass controls — dedicated function keys (Auto Cook, Auto Reheat, Popcorn, Defrost, Power Level, Cook Time, Timer On/Off) + slide touch +/– bar + STOP/Clear + START/Enter
-source: https://www.manualslib.com/manual/2457776/Lg-Lmc0975st.html
 ---
+
+- **Manufacturer:** LG
+- **Model:** LMC0975ST
+- **Type:** countertop
+- **Wattage:** 1000W
+- **Capacity:** 25L
+- **Interface:** SmoothTouch glass controls — dedicated function keys (Auto Cook, Auto Reheat, Popcorn, Defrost, Power Level, Cook Time, Timer On/Off) + slide touch +/– bar + STOP/Clear + START/Enter
+- **Source:** https://www.manualslib.com/manual/2457776/Lg-Lmc0975st.html
 
 The LMC0975ST is part of LG's NeoChef line, featuring Smart Inverter technology (continuous power output at the selected level, not duty-cycle pulsing) and an EasyClean interior coating that resists stains. Controls are SmoothTouch glass — there are no physical buttons that depress. The +/– area functions both as discrete touch targets and as a slide bar: swipe right on the bar to increase a value quickly, swipe left to decrease it, or press the + or – ends individually for single-increment changes. Most operations begin by opening the oven door and pressing STOP/Clear to reset, then selecting a function, using +/– to set values, and pressing START/Enter. When cooking ends, a chime sounds and "End" appears in the display; the chime repeats every minute until the door is opened or a button is pressed.
 

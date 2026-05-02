@@ -4,14 +4,15 @@ description: >
   Operate a Blanco BM32CX. Invoke this skill when the user needs to
   perform cooking, reheating, defrosting, or other functions on this
   specific model. Do not generalise to other Blanco models.
-manufacturer: Blanco
-model: BM32CX
-type: built-in
-wattage: 1000W
-capacity: 32L
-interface: rotary dial + KITCHEN TIMER/CLOCK + MICROWAVE/GRILL/COMBI./CONVE. + WEIGHT/TIME DEFROST + START/+30SEC./CONFIRM + STOP/CLEAR
-source: https://www.manualslib.com/manual/1067429/Blanco-Bm32cx.html
 ---
+
+- **Manufacturer:** Blanco
+- **Model:** BM32CX
+- **Type:** built-in
+- **Wattage:** 1000W
+- **Capacity:** 32L
+- **Interface:** rotary dial + KITCHEN TIMER/CLOCK + MICROWAVE/GRILL/COMBI./CONVE. + WEIGHT/TIME DEFROST + START/+30SEC./CONFIRM + STOP/CLEAR
+- **Source:** https://www.manualslib.com/manual/1067429/Blanco-Bm32cx.html
 
 The BM32CX is a built-in convection microwave operated primarily through a single rotary dial whose function changes depending on the active mode. In standby, turning the dial has no effect; the dial activates once a mode is selected. Pressing MICROWAVE/GRILL/COMBI./CONVE. once enters microwave mode at P100 — subsequent presses or dial turns cycle through power levels, then grill, combination, and convection modes in sequence. START/+30SEC./CONFIRM serves double duty as a confirm key (locking in a selected parameter) and as an execute key (starting the operation). The display shows the current mode or power level, then switches to time once a start command is issued. The oven will not run without food inside; doing so is documented as dangerous.
 

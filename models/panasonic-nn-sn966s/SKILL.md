@@ -4,14 +4,15 @@ description: >
   Operate a Panasonic NN-SN966S. Invoke this skill when the user needs to
   perform cooking, reheating, defrosting, or other functions on this
   specific model. Do not generalise to other Panasonic models.
-manufacturer: Panasonic
-model: NN-SN966S
-type: countertop
-wattage: 1250W
-capacity: 62L
-interface: dedicated function pads (Sensor Reheat, Sensor Cook, Inverter Turbo Defrost, Keep Warm, Popcorn) + Power Level + Quick 30/More + Timer/Clock/Less + Number Pads + Stop/Reset + Start
-source: https://www.manualslib.com/manual/2317087/Panasonic-Inverter-Nn-Sn966s.html
 ---
+
+- **Manufacturer:** Panasonic
+- **Model:** NN-SN966S
+- **Type:** countertop
+- **Wattage:** 1250W
+- **Capacity:** 62L
+- **Interface:** dedicated function pads (Sensor Reheat, Sensor Cook, Inverter Turbo Defrost, Keep Warm, Popcorn) + Power Level + Quick 30/More + Timer/Clock/Less + Number Pads + Stop/Reset + Start
+- **Source:** https://www.manualslib.com/manual/2317087/Panasonic-Inverter-Nn-Sn966s.html
 
 The NN-SN966S uses Panasonic Inverter technology, which delivers power as true continuous output at the selected level rather than cycling the magnetron on and off at full power. At P5 (50%), the oven runs continuously at half power — not full power for half the time. This is most noticeable during defrost, where conventional cycling leaves partially cooked edges while the centre remains frozen. All controls are discrete pads; there is no dial. Number pads enter time and weight directly. The Quick 30/More pad adds 30-second increments during manual cooking and also functions as a +20% time adjustment when used with sensor functions. Timer/Clock/Less subtracts 30-second increments and adjusts sensor functions by –20%.
 

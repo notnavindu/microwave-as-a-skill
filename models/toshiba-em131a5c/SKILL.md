@@ -4,14 +4,15 @@ description: >
   Operate a Toshiba EM131A5C. Invoke this skill when the user needs to
   perform cooking, reheating, defrosting, or other functions on this
   specific model. Do not generalise to other Toshiba models.
-manufacturer: Toshiba
-model: EM131A5C
-type: countertop
-wattage: 1100W
-capacity: 34L
-interface: number pads + dedicated sensor pads (Sensor Reheat, Frozen Pizza, Frozen Entrée, Potato, Rice, Veggie) + 1 LB Defrost + Custom Defrost + Power Level + Cook Time + START ADD 30 SEC + One Touch Start pads (1–6) + Favorite + Clock + Kitchen Timer + STOP Cancel
-source: https://www.manualslib.com/manual/1445879/Toshiba-Em131a5c-Bs.html
 ---
+
+- **Manufacturer:** Toshiba
+- **Model:** EM131A5C
+- **Type:** countertop
+- **Wattage:** 1100W
+- **Capacity:** 34L
+- **Interface:** number pads + dedicated sensor pads (Sensor Reheat, Frozen Pizza, Frozen Entrée, Potato, Rice, Veggie) + 1 LB Defrost + Custom Defrost + Power Level + Cook Time + START ADD 30 SEC + One Touch Start pads (1–6) + Favorite + Clock + Kitchen Timer + STOP Cancel
+- **Source:** https://www.manualslib.com/manual/1445879/Toshiba-Em131a5c-Bs.html
 
 The EM131A5C has a flat numeric keypad layout. Most cooking operations start by pressing Cook Time and entering digits, then adjusting power level if needed before pressing START. The six One Touch Start pads (labelled 1–6) provide a shortcut: pressing pad 1 starts 1 minute at full power, pad 2 starts 2 minutes, and so on up to 6 minutes. The START ADD 30 SEC pad starts 30 seconds at full power from standby and adds 30 seconds during active cooking. Power level can be set before entering cook time or after — the manual states "prior to or during cooking" — but must be set before pressing START. The humidity sensor controls require specific conditions (room under 95°F, food over 4 oz, dry cavity) and should not be interrupted before the cooking time appears in the display.
 
